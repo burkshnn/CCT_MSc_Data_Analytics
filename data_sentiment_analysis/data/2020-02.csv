@@ -1,0 +1,438 @@
+,id,date,url,lenContent,replyCount,retweetCount,likeCount,quoteCount,lang,hasLinks,hasMedia,isRetweeted,isQuoted,viewCount,bookmarkCount,hasHashtags,userId,displayName,userDescription,verified,createDate,followerCount,friendCount,userLocation,rawContent,compound,pos,neu,neg
+0,1227299592699629568,2020-02-11,https://twitter.com/JeremyFarrar/status/1227299592699629568,194,2,10,69,1,en,False,True,False,False,,0,False,1489776218,Jeremy Farrar,,False,2013-06-07,82370,294,Switzerland,The brilliant “Wellcome/CDR Rapporteur Team” drafting the report on discussions @WHO on Research Themes &amp; Prioritisation for #COVID-19 - invaluable support. Thank you https://t.co/qIga5nVDOj,0.8402,0.409,0.591,0.0
+1,1227278889103372293,2020-02-11,https://twitter.com/DrNeilStone/status/1227278889103372293,218,351,41,427,38,en,False,False,False,False,,22,True,917416223541022720,Neil Stone,Infectious Diseases specialist doctor.Fungi. @BRITMICNetwork.Officially the 1st person to use word #Covid. Personal views only. Ex owner of legit blue tick,False,2017-10-09,40880,15434,,"Names matter. The novel #Coronavirus has how been named #Covid. Important to distinguish it from the many other coronaviruses which circulate, whilst avoiding stigmatising a whole city forever by naming it after Wuhan.",0.2023,0.23,0.664,0.106
+2,1227546632964759552,2020-02-12,https://twitter.com/ScottGottliebMD/status/1227546632964759552,280,19,202,377,25,en,True,False,False,False,,12,False,40156330,"Scott Gottlieb, MD",Senior Fellow @AEI. Partner @NEA. Contributor @CNBC. 23rd Commissioner of @US_FDA. Boards: @Pfizer @Illumina @AetionInc @TempusLabs @MountSinaiNYC,False,2009-05-15,592211,1511,"Washington, DC","Deeply concerning: Singapore has 3 new cases of #COVID-19, bringing to 50 the country’s total case count. 8 are in intensive care. Singapore, with an excellent public health system, is going to provide far more information on viral epidemiology than China. https://t.co/5OmBWUduf2",0.7845,0.223,0.777,0.0
+3,1227544451544952833,2020-02-12,https://twitter.com/newscientist/status/1227544451544952833,229,2,45,94,1,en,True,False,False,False,,2,False,19658826,New Scientist,The best place to find out what’s new in science – and why it matters.,False,2009-01-28,4342011,294,Worldwide,"The new coronavirus is the latest example of a disease that jumped from animals into humans. When infections do this they can be particularly deadly because we lack pre-existing immunity to them. #Covid-19
+https://t.co/3DH1Ry02k3",-0.3774,0.0,0.853,0.147
+4,1227543535639027713,2020-02-12,https://twitter.com/newscientist/status/1227543535639027713,286,8,176,223,30,en,True,True,False,False,,6,False,19658826,New Scientist,The best place to find out what’s new in science – and why it matters.,False,2009-01-28,4342011,294,Worldwide,"How bad will the #Covid-19 outbreak get? A leading epidemiologist has claimed it could infect 60% of the world’s population. It seems to be more contagious than 2009 swine flu, which it is estimated infected 24% of the world’s population. https://t.co/qx6qjWo1LE https://t.co/xDFDpdGXug",-0.8934,0.0,0.606,0.394
+5,1227419610821079040,2020-02-12,https://twitter.com/T_Inglesby/status/1227419610821079040,280,43,117,162,15,en,True,False,False,False,,7,False,2426189960,"Tom Inglesby, MD","Director @JHSPH_CHS. Former Sr. Advisor @WhiteHouse COVID Response Team. Epidemics, pub health, biosecurity, policy, preparedness.  https://t.co/fHp5lOgIvq",False,2014-04-03,105910,973,"Baltimore, MD","President's proposed budget would cut funding for @WHO by more than 50%.  But the US needs @WHO more than ever--as does rest of world--to deal w dangerous #COVID-19 spread around the globe.  @WHO needs far more budget, not less. Congress should increase it
+https://t.co/uQqNodOnFc",-0.4902,0.065,0.769,0.167
+6,1228055352316497920,2020-02-13,https://twitter.com/DrNeilStone/status/1228055352316497920,258,8,19,66,1,en,False,False,False,True,,0,True,917416223541022720,Neil Stone,Infectious Diseases specialist doctor.Fungi. @BRITMICNetwork.Officially the 1st person to use word #Covid. Personal views only. Ex owner of legit blue tick,False,2017-10-09,40880,15434,,"Over 2,500 tests now done for #COVID #coronavirus in UK. Every single test taken involves putting personal protective equipment (PPE) on and off safely, putting samples in special containers and courier to the lab. This takes time....every.. single... one...",0.7096,0.191,0.809,0.0
+7,1228044498275618823,2020-02-13,https://twitter.com/EsteGeraghty/status/1228044498275618823,243,1,28,80,7,en,True,False,False,False,,1,True,2578071749,Este Geraghty,"Chief Medical Officer and Health Solutions Director at Esri
+(Opinions expressed are my own)",False,2014-06-02,1800,1798,"Redlands, CA",This was a very proud moment for me and for Esri. See my short appearance on @CNBCTHEEXCHANGE talking about the coronavirus epidemic and the value of GIS! #COVID-19 #locationintelligence #thescienceofwhere #surveillance https://t.co/MmG514Fc2p,0.6996,0.293,0.707,0.0
+8,1227871015713288192,2020-02-13,https://twitter.com/WHOLebanon/status/1227871015713288192,244,9,61,148,14,en,False,True,False,False,,0,True,2394143648,WHO Lebanon,Official Twitter account of the World Health Organization Lebanon Office. For info on the coronavirus https://t.co/AjEQifSgjp…,False,2014-03-17,21702,216,"Beirut, Lebanon ","Q: Can spraying alcohol or chlorine all over your body kill #COVID-19?
+A: No. Spraying alcohol or chlorine all over your body will not kill the viruses that have already entered your body.
+
+#WHO #HealthForAll @WHOLebanon https://t.co/oB7yGwoYM5",-0.9118,0.0,0.58,0.42
+9,1228298724574736384,2020-02-14,https://twitter.com/MullenCarolyn/status/1228298724574736384,131,4,19,94,2,en,False,False,False,False,,0,True,712609550,Carolyn Mullen,"SVP of Govt Affairs & PR @astho. Policy expert, runner, and mom. 2019 #40under40 in public health. Opinions are my own.",False,2012-07-23,980,349,"Washington, DC","Roses are red
+Violets are blue
+Public health officials are working tirelessly so #covid doesn’t infect you
+
+#HealthPolicyValentines",0.0,0.0,1.0,0.0
+10,1228220676638572545,2020-02-14,https://twitter.com/PKU1898/status/1228220676638572545,266,1,86,1455,6,en,False,True,False,False,,1,True,850157859065151488,Peking University,Peking University was established in 1898. This account is dedicated to #Peking University’s global outreach and communications.,False,2017-04-07,686332,164,Beijing,"Today is #ValentinesDay , but instead of enjoying chocolates and roses, many of our brave medical workers parted from their loved ones to fight against the #coronavirus in Wuhan. These pictures capture some of their tender goodbyes. #COVID-19 https://t.co/Jw58QxES4d",0.8442,0.353,0.561,0.086
+11,1228571983194943493,2020-02-15,https://twitter.com/PKU1898/status/1228571983194943493,152,0,19,462,1,en,False,False,False,False,,0,True,850157859065151488,Peking University,Peking University was established in 1898. This account is dedicated to #Peking University’s global outreach and communications.,False,2017-04-07,686332,164,Beijing,"Meet Zhong Nanshan, a #PKU alumnus and a renowned respiratory expert who leads an official panel advising on controlling the #coronavirus! #COVID #Wuhan",0.0,0.0,1.0,0.0
+12,1229166109103984641,2020-02-16,https://twitter.com/SecPompeo/status/1229166109103984641,301,181,638,2372,53,en,False,True,False,False,,7,True,988573326376427520,Secretary Pompeo,"This account has been archived. You can follow former U.S. Secretary of State Mike Pompeo at @mikepompeo. For U.S. State Department updates, follow @StateDept.",False,2018-04-24,2800417,48,,Our team at @usembassytokyo is working diligently with our Japanese partners to bring home Americans on board the #DiamondPrincess cruise line. The @StateDept continues to work to respond to #COVID-19 around the world. Assisting affected Americans is a key part of this effort. https://t.co/A2uSX76IKf,-0.1531,0.0,0.94,0.06
+13,1228847353412481024,2020-02-16,https://twitter.com/XHNews/status/1228847353412481024,178,3,91,136,13,en,True,True,False,False,,1,False,487118986,China Xinhua News,"Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias
+Our App: https://t.co/uYjoablw4w",False,2012-02-09,12040734,76,"Headquartered in Beijing, PRC",China develops new rapid testing kits for #COVID-19. The test results can be shown within 15 mins after collecting a drop of blood https://t.co/cWJ8bZec1K https://t.co/U6CBThSwjN,-0.2732,0.0,0.877,0.123
+14,1229534924371349506,2020-02-17,https://twitter.com/Techrose11/status/1229534924371349506,280,19,44,77,5,en,False,True,False,False,,2,True,1189057894169432064,Techrose1,I am Graphic Designer have experience of 8 years love Photography 📷 art and love to paint🎨🖌️I live in UAE🇦🇪❤️ I am from Pakistan ❤️🇵🇰 🙏❤️ Peace to ALL,False,2019-10-29,14497,14419,Pakistan🇵🇰❤️ UAE🇦🇪❤️,"Is it a Jungle or Civilized city? a man being bullied for not wearing a mask note he is not a criminal just a passer by but they hit him time to time if he don't wear mask give him one, degrading humanity God save Chinese common people #coronavirus #COVID 
+https://t.co/0sl18S0EGB",-0.7906,0.141,0.559,0.301
+15,1229484209355362304,2020-02-17,https://twitter.com/CharlotteLaws/status/1229484209355362304,262,27,82,185,5,en,False,False,False,False,,2,True,15976268,Charlotte Laws,"Official Account! Netflix show ""Most Hated Man...""  #Author, Former CA Politician & TV Pundit @NBC @BBC #Vegan, Revenge Porn Expert. Instagram: @DrCharlotteLaws",False,2008-08-25,22481,2933,"Los Angeles, CA","Congress needs to pass a law requiring transparency with respect to #covid19 #coronavirus #covid  Currently, some states (such as Florida) do not have to give the public information about confirmed cases. Some say there are confirmed cases in FLA &amp; New York.",0.4767,0.11,0.89,0.0
+16,1229345634810908672,2020-02-17,https://twitter.com/KKMPutrajaya/status/1229345634810908672,300,11,1014,883,35,en,False,True,False,False,,3,False,531041640,KKMalaysia🇲🇾😷,Official account of Malaysia’s Ministry of Health.,False,2012-03-20,2025476,128,Putrajaya,"The first Malaysian confirmed to be positive for the #covid-19 has fully recovered and was discharged today,  Feb 17. 
+
+The 41yo male who was also the 9th case reported was confirmed positive for the virus on Feb 4th.
+
+This means 9 patients have recovered and been discharged. https://t.co/rdbCaFZDnR",0.802,0.231,0.769,0.0
+17,1229328886011330565,2020-02-17,https://twitter.com/DrDzul/status/1229328886011330565,304,1,40,160,4,en,False,True,False,False,,0,False,132443932,Dzulkefly Ahmad,"X-Minister of Health. MP for Kuala Selangor. Strategy Director of Parti Amanah Negara. A Muslim Democrat.
+PhD @imperialcollege (St.Mary's Hosp Medical School).",False,2010-04-13,213759,780,Malaysia,"Just had a cordial call with H.E. Prof Mam Bunheng, Minister of Health, Cambodia.
+
+Discussed issues on #COVID-19 -special focus on cruise ship passenger that tested +ve in Malaysia.
+
+🇲🇾🇰🇭 will take all necessary measures to combat this virus.
+
+@WHOMalaysia @WHOWPRO @takeshi_kasai https://t.co/fgqxiaUlgA",0.0772,0.087,0.836,0.077
+18,1229299748907040768,2020-02-17,https://twitter.com/CGTNOfficial/status/1229299748907040768,132,15,94,369,2,en,True,False,False,False,,2,True,1115874631,CGTN,CGTN is an international media organization. It aims to provide global audiences with accurate and timely news coverage as well as rich audiovisual services.,False,2013-01-24,13051946,76,"Beijing, China",Live: China's health authority briefs media on its latest efforts in containing novel #coronavirus #COVID-19 https://t.co/Dxs6wJtJIb,0.3818,0.265,0.735,0.0
+19,1229299269988954112,2020-02-17,https://twitter.com/StateDept/status/1229299269988954112,252,42,226,713,15,en,True,False,False,False,,5,True,9624742,Department of State,Welcome to the U.S. Department of State Twitter account. Follow @SecBlinken for more from the Secretary. For all Department accounts: https://t.co/VpbtF1LASc.,False,2007-10-23,6412944,340,"Washington, DC",Two Department of State charter flights with more than 300 passengers from the #DiamondPrincess will land in the U.S. later today. The United States remains committed to protecting Americans and fighting the spread of #COVID-19. https://t.co/kAX0ry0Dii,0.34,0.193,0.709,0.098
+20,1229294527287975936,2020-02-17,https://twitter.com/ChristinaKerby/status/1229294527287975936,255,20,13,126,3,en,False,False,False,False,,0,False,21342003,Christina Kerby,"Healthcare, biotech, comms. Mom. Bacon and dark chocolate. Views are my own.",False,2009-02-19,1997,785,"Alameda, CA",The health and safety of my fellow travelers and our gracious Cambodian hosts is my top priority. Still awaiting results of my #covid-19 test and will not travel until I know I can do so safely without risking the health of others - however long it takes.,0.9074,0.413,0.587,0.0
+21,1229798624395223040,2020-02-18,https://twitter.com/NCDCgov/status/1229798624395223040,299,8,100,117,7,en,False,True,False,False,,1,True,705694814612938752,NCDC,The official Twitter account of the Nigeria Centre for Disease Control and Prevention (NCDC) || Social Media Policy: https://t.co/atAH0s6OEF || Toll-free: 6232,False,2016-03-04,1260171,387,"Abuja, Nigeria","The NCDC is aware of a rumour being shared on social media that #COVID19 is spread through broiler chickens
+
+This is FALSE. The public is advised to disregard this rumour 
+
+Scientists are working to discover the animal source of #COVID-19
+
+There’s NO LINK to broiler chickens https://t.co/XFUhGOC4uy",0.0772,0.087,0.836,0.076
+22,1229696002786910209,2020-02-18,https://twitter.com/IndianEmbTokyo/status/1229696002786910209,255,8,25,119,0,en,False,False,False,False,,1,True,3180214502,India in Japanインド大使館,Welcome to the official Twitter-page of the Embassy of India in Japan and Republic of Marshall Islands! 在日インド大使館及びマーシャル諸島共和国インド大使館の公式アカウントへようこそ！ 🇮🇳,False,2015-04-30,31851,132,2-2-11 Chiyoda-Ku Tokyo,"Till 1800 (JST) today, no new #COVID-19 positive cases confirmed on #DiamondPrincess since yesterday. All six Indian crew members already receiving treatment for COVID – 19 are responding well to the treatment and their conditions are improving. @MEAIndia",0.8176,0.262,0.738,0.0
+23,1229576509393780736,2020-02-18,https://twitter.com/XHNews/status/1229576509393780736,213,9,73,136,7,en,False,True,False,False,,7,False,487118986,China Xinhua News,"Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias
+Our App: https://t.co/uYjoablw4w",False,2012-02-09,12040734,76,"Headquartered in Beijing, PRC","Heavy, cumbersome, layer by layer...but...it's a must. Two doctors working on the frontline of the #COVID-19 outbreak in Wuhan, China, show how to properly don and doff protective equipment https://t.co/gzUw4aN0IJ",0.0,0.0,1.0,0.0
+24,1230153262009081856,2020-02-19,https://twitter.com/CanadaGeneva/status/1230153262009081856,294,17,43,122,10,en,False,True,False,False,,0,True,2591497068,Canada in Geneva 🍁,"Permanent Mission of 🇨🇦 to the @WTO, @UNGeneva, @ODA_Geneva, @WIPO & IOs in Geneva. Français: @CanadaGeneve Ambassadors: @Nadia_Theodore, @LeslieENorton",False,2014-06-27,8325,1190,"Geneva, Switzerland",🇨🇦 pleased to provide $2M to @WHO to help countries prepare and respond to #COVID-19 + 16 tons of PPEs to 🇨🇳 to support its response. Thanks @DrTedros +team for your tireless efforts. Solidarity w/ people in 🇨🇳 affected by this emergency. #FactsNotFear #TogetherEnsemble https://t.co/FlrvdfQn47,0.8481,0.376,0.506,0.118
+25,1230152512100917248,2020-02-19,https://twitter.com/XHNews/status/1230152512100917248,301,34,68,126,6,en,True,True,False,False,,4,True,487118986,China Xinhua News,"Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias
+Our App: https://t.co/uYjoablw4w",False,2012-02-09,12040734,76,"Headquartered in Beijing, PRC","The flu has caused the deaths of 14,000 Americans, sickened 26 million in this season, while #COVID-19 has infected 15 and killed none in the U.S.
+It doesn't take an expert to see why the flu is much graver a threat than novel #coronavirus for Americans https://t.co/31qPSj87PE https://t.co/Hj5yYOG6Tm",-0.9618,0.056,0.413,0.532
+26,1230088730980962304,2020-02-19,https://twitter.com/DrDzul/status/1230088730980962304,223,2,31,122,3,en,False,False,False,True,,2,False,132443932,Dzulkefly Ahmad,"X-Minister of Health. MP for Kuala Selangor. Strategy Director of Parti Amanah Negara. A Muslim Democrat.
+PhD @imperialcollege (St.Mary's Hosp Medical School).",False,2010-04-13,213759,780,Malaysia,"TQSM @DrTedros DG @WHO
+
+Once again l affirm 🇲🇾's commitment to be in solidarity with other nations in this battle against #COVID-19.
+
+We will always stand guided by SCIENCE &amp; FACTS!
+
+@WHOWPRO @WHOMalaysia @takeshi_kasai",0.3595,0.215,0.675,0.11
+27,1229961196096217088,2020-02-19,https://twitter.com/XHNews/status/1229961196096217088,179,10,49,112,8,en,True,True,False,False,,5,False,487118986,China Xinhua News,"Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias
+Our App: https://t.co/uYjoablw4w",False,2012-02-09,12040734,76,"Headquartered in Beijing, PRC",Traditional Chinese medicine (TCM) has proven effective in the treatment of #COVID-19 patients and is being used across the country https://t.co/7KBRxmE7sK https://t.co/APsj5avG0q,0.4767,0.22,0.78,0.0
+28,1230402666771210240,2020-02-20,https://twitter.com/CathayPak/status/1230402666771210240,302,13,61,280,1,en,False,True,False,False,,3,False,3612384374,Chinese Emb Pakistan,Embassy of the People's Republic of China in the Islamic Republic of Pakistan 欢迎关注中国驻巴基斯坦使馆官方推特。让我们一起续写中巴友谊，讲好中国故事。,False,2015-09-19,159603,192,"اسلام آباد, پاکستان","Students of the Chinese Class from Aitchison College in Lahore, Pakistan express solidarity with China in the fight against COVID-2019, which demonstrates the rock-solid friendship between China and Pakistan.We thanks them for their support. #COVID-2019 @ImranKhanPTI @MFA_China https://t.co/6AaEwaNBo0",0.7964,0.353,0.561,0.086
+29,1230370312614764547,2020-02-20,https://twitter.com/Julisco_/status/1230370312614764547,133,50,82,90,34,en,False,True,False,False,,6,True,1051083119028264966,JULIA ❄ ©,I FOLLOW BACK FASTER THAN USAIN BOLT!! ///////// A BABE NOT A SLAY QUEEN 🥰,False,2018-10-13,22267,21717,Nigeria,"Yummy!! yummy!! Tastes good right?! Keep it up China.
+.
+.
+
+#coronavavirus #COVD19 #COVID19製造機 #COVID19 #COVID https://t.co/ehdEgz71HY",0.8972,0.547,0.453,0.0
+30,1230345903514341378,2020-02-20,https://twitter.com/XHNews/status/1230345903514341378,131,5,27,122,7,en,True,True,False,False,,2,False,487118986,China Xinhua News,"Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias
+Our App: https://t.co/uYjoablw4w",False,2012-02-09,12040734,76,"Headquartered in Beijing, PRC",No new confirmed #COVID-19 cases reported in nine provincial-level regions of China https://t.co/mttK8d3hcm https://t.co/pARi4NGTcf,0.0,0.0,1.0,0.0
+31,1230973555015344129,2020-02-21,https://twitter.com/RealHKNews/status/1230973555015344129,302,13,190,168,6,en,True,True,False,False,,8,True,1328352025,Real Hong Kong News,"A group of volunteers translating news about #HongKong from Cantonese to English
+RT ≠ Endorsement
+❤️ = thx and/or track",False,2013-04-05,5531,634,Hong Kong,"Confidential doc obtained by @appledaily_hk reveals:
+-#China controls #HongKong's protective gear supply
+-Carrie Lam blames #healthcare workers 4 the failure in managing the #nCoV2019 #COVID epidemic in HK
+- Lam backstabs pro #China parties
+
+Eng sub vid: https://t.co/UyZaQn1Jqs https://t.co/k701SjyrMu",-0.5106,0.076,0.756,0.168
+32,1230891840619966465,2020-02-21,https://twitter.com/MHLWitter/status/1230891840619966465,192,7,150,160,6,en,False,False,False,False,,5,False,180585090,厚生労働省,"厚生労働省の公式アカウントです。健康・医療、福祉・介護、雇用・労働、年金など、皆さまの暮らしを支える情報をお届けします。
+
+※このツイッターに寄せられたコメントへの返信はしておりません。
+
+【運用方針】https://t.co/aGmzcuVoTx",False,2010-08-20,1000695,13,東京都千代田区霞が関　中央合同庁舎５号館,"【#COVID-19 Press Conference on the Situation of the Cruise Ship】
+Press Conference on the Situation of COVID-19 in the Cruise Ship off the coast of Yokohama was held on Friday 21 February 2020.",0.0,0.0,1.0,0.0
+33,1230844272640835585,2020-02-21,https://twitter.com/DGHisham/status/1230844272640835585,302,4,187,149,6,en,False,True,False,False,,0,False,1595149746,Noor Hisham Abdullah,"Tan Sri Dato’ Seri Dr Noor Hisham Abdullah is the Former DG of Health Malaysia and Senior Consultant Surgeon in Breast, Endocrine and General Surgery.",False,2013-07-15,1175183,686,Putrajaya Malaysia,"Latest on #COVID -19 in Malaysia, total cumulative cases remains at 22, 17 have been discharged with 5 cases still receiving treatment in hospitals. The 83 yo American lady tested negative twice more than 24h apart is still being managed for her symptoms with her 85 yo husband. https://t.co/H9OLMJUx9c",-0.5719,0.0,0.89,0.11
+34,1230725395940380672,2020-02-21,https://twitter.com/tracyalloway/status/1230725395940380672,278,9,28,179,3,en,False,False,False,False,,3,False,20169416,Tracy Alloway,"Co-host of the Odd Lots podcast. I like financial crisis hindsight, spurious correlation and puppies. London ➡️ New York ➡️ Abu Dhabi ➡️ Hong Kong ➡️ New York",False,2009-02-05,185831,4581,New York,"Me buying something off AliExpress 6 months ago: This is nice and cheap.
+
+Me buying something off AliExpress today: I must buy this to test the resilience of the online retail model during #COVID. Supply chains aren't linear and 'tech' firms often rely on analog infrastructure.",0.4215,0.094,0.906,0.0
+35,1231725539527987200,2020-02-23,https://twitter.com/DrEricDing/status/1231725539527987200,209,41,253,658,30,en,False,False,False,True,,16,True,18831926,Eric Feigl-Ding,Epidemiologist & health economist. Faculty @NECSI. Co-founder @TheWHN. Former 16 years @Harvard.   SUBSCRIBE: https://t.co/I6xZVmz79l,False,2009-01-10,777172,12258,Washington DC | Virginia,"South Korea is doing testing 🧪 correctly - comprehensive testing for anyone with any symptoms of #COVID. We need that everywhere, especially USA. And free available testing and treatment if possible. #SARSCoV2",0.6786,0.247,0.753,0.0
+36,1231693574808444936,2020-02-23,https://twitter.com/LivHospitals/status/1231693574808444936,274,12,104,171,20,en,False,False,False,False,,1,False,793968714,Liverpool University Hospitals NHS FT,"We provide specialist, emergency and complex care across NW England from sites in Liverpool, Aintree and Broadgreen. Monitored weekdays 9am-5pm (except BH) 🏥",False,2012-08-31,21291,1809,"Liverpool, UK",We are treating a patient with Coronavirus #COVID-19 in the Royal Liverpool Hospital's Infectious Diseases Unit. There is no risk to other patients or visitors. All of our services are operating as usual. If you have a hospital appointment then you should attend as planned.,-0.2732,0.0,0.9,0.1
+37,1231611395722137601,2020-02-23,https://twitter.com/DHSCgovuk/status/1231611395722137601,280,38,168,128,37,en,True,True,False,False,,4,True,37963496,Department of Health and Social Care,"We support ministers in leading the nation’s health and social care to help people live more independent, healthier lives for longer.",False,2009-05-05,693471,1112,England,"Update on #coronavirus: 
+
+Four further patients in England have tested positive for #COVID-19. The virus was passed on in the Diamond Princess cruise ship and the patients are being transferred to specialist NHS centres.
+
+More info: https://t.co/cudRsJTMPe https://t.co/AtccAx9qpf",0.7184,0.25,0.75,0.0
+38,1231586011534196738,2020-02-23,https://twitter.com/CathayPak/status/1231586011534196738,271,10,34,115,3,en,False,False,False,False,,0,True,3612384374,Chinese Emb Pakistan,Embassy of the People's Republic of China in the Islamic Republic of Pakistan 欢迎关注中国驻巴基斯坦使馆官方推特。让我们一起续写中巴友谊，讲好中国故事。,False,2015-09-19,159603,192,"اسلام آباد, پاکستان","(4/4)The suggestions of WHO and health experts are that the safest approach is to stay where you are, as any movement of people will lead to the risk of cross infection.#COVID-19 #OverseasPakistanis @zfrmrza @mophrd @sayedzbukhari @ImranKhanPTI @ForeignOfficePk @WorldPTV",0.1531,0.113,0.798,0.088
+39,1231585776984641536,2020-02-23,https://twitter.com/CathayPak/status/1231585776984641536,271,10,41,140,1,en,False,False,False,False,,0,True,3612384374,Chinese Emb Pakistan,Embassy of the People's Republic of China in the Islamic Republic of Pakistan 欢迎关注中国驻巴基斯坦使馆官方推特。让我们一起续写中巴友谊，讲好中国故事。,False,2015-09-19,159603,192,"اسلام آباد, پاکستان","(1/4)The outbreak of COVID-19 is being fully prevented and has turned out positive trend in China. The outbreak is preventable, controllable and the disease is curable. #COVID-19 #OverseasPakistanis @zfrmrza @mophrd @sayedzbukhari @ImranKhanPTI @ForeignOfficePk @WorldPTV",0.6436,0.208,0.792,0.0
+40,1231579814634631174,2020-02-23,https://twitter.com/GicoBellani/status/1231579814634631174,181,24,11,98,3,en,False,True,False,False,,0,True,4571438962,Giacomo Bellani,"Professor at @UniTrento and head of Anesthesia and Crit Care 1st division at @ApssTn. Interest in MV, ARDS, NIV. Father of three. Lazy. Loves Alps",False,2015-12-22,5612,3344,Monza e della Brianza,"So, experiencing the first #Quarantine of my life as one of our #ards patients in #ECMO resulted positive to #COVID. Wating for the results of my own swab... https://t.co/Lhb9O7Cslo",0.5574,0.205,0.795,0.0
+41,1231539177969184768,2020-02-23,https://twitter.com/DougUNDP/status/1231539177969184768,190,0,13,67,1,en,False,True,False,False,,0,False,633999734,Douglas Webb,"Advisor, Environment and Health @UNDP. Working at the nexus of health, climate and environmental change. Adjunct professor at NYU. Author, PhD. Views my own.",False,2012-07-12,6246,5207,Amman,Arrived in Bangkok today to help @UNDPasiapac set up regional #covid-19 response to boost national @undp @un and government efforts. Looking forward to the challenge. https://t.co/vdmEN034zZ,0.6908,0.309,0.691,0.0
+42,1231531004566941696,2020-02-23,https://twitter.com/elerianm/status/1231531004566941696,263,8,41,80,2,en,False,True,False,False,,4,True,332617373,Mohamed A. El-Erian,"President, Queens' College, Cambridge Uni. Allianz, Gramercy advisor. Wharton Professor. Lauder Institute Senior Fellow. Bloomberg,FT columnist. Cam Union Chair",False,2011-07-10,629192,1041,USA,It’s now more than a month since the #coronavirus news started to spread and this measure of economic activity in #China shows no sustained sign of recovery as yet.  #COVIDー19 #COVID #economy #markets @bopinion @markets @economics @markets https://t.co/5L65lRZO6K,0.0,0.0,1.0,0.0
+43,1231488946053537792,2020-02-23,https://twitter.com/bmj_latest/status/1231488946053537792,276,4,77,132,12,en,True,False,False,False,,5,True,16949344,The BMJ,"The BMJ is patient centred, evidence based, and independent. Help us improve the health of our world with the best science, journalism, education, and comment",False,2008-10-24,505332,7077,London Beijing Delhi New York,People with suspected #COVID-19 in London are being tested in their homes as part of a pilot to stop unnecessary ambulance use and hospital visits. The healthcare workers involved reflect on their experience and what they've learnt so far: https://t.co/OUkZFlUY2P #Coronavirus,-0.4767,0.0,0.837,0.163
+44,1231374491319562240,2020-02-23,https://twitter.com/adriandix/status/1231374491319562240,267,8,21,61,3,en,False,False,False,False,,0,True,22997830,Adrian Dix,Member of the Legislative Assembly for Vancouver-Kingsway. Collingwood resident. BC Minister of Health.,False,2009-03-05,61977,4496,Vancouver BC,"#BC has tested nearly 700 individuals and 1000 samples for #COVID-19. We are completing a significant amount of tests compared to other jurisdictions. Deep gratitude for the teams @CDCofBC &amp; in public health, who are working around the clock to keep #BC vigilant.",0.7003,0.221,0.779,0.0
+45,1232056313988947969,2020-02-24,https://twitter.com/MacroVoices/status/1232056313988947969,276,20,82,163,35,en,True,True,False,False,,26,True,4813775412,MacroVoices Podcast,"The premiere weekly financial podcast, with hedge fund manager @ErikSTownsend, interviewing the brightest minds in finance and macroeconomics.",False,2016-01-25,69057,95,,"We’ve assembled the #COVID thought leaders of Financial Twitter @EpsilonTheory @biancoresearch @chrismartenson @MishGEA for an in-depth panel discussion as #COVID19 escalates toward global pandemic status. Please re-Tweet! #OOTT
+https://t.co/x78S4NGfyv https://t.co/EWgfC4rxpD",0.3802,0.105,0.895,0.0
+46,1232049116894711810,2020-02-24,https://twitter.com/peedutuisk/status/1232049116894711810,137,15,52,178,12,en,False,True,False,False,,4,True,555284378,Peedu Tuisk,"15+ years in IT and design. Sometimes I tweet about my projects,
+but mostly a voice from Estonia in the context of Baltics and Nordics.",False,2012-04-16,2618,280,"Currently Tallinn, Estland","Italians being Italians: took every kind of pasta in fear of Covid virus, except Barilla… 😀
+
+#covid19italy #covid https://t.co/s4piV1rIq6",0.0516,0.193,0.625,0.182
+47,1231970354521706496,2020-02-24,https://twitter.com/MHLWitter/status/1231970354521706496,232,15,124,179,4,en,True,False,False,False,,6,False,180585090,厚生労働省,"厚生労働省の公式アカウントです。健康・医療、福祉・介護、雇用・労働、年金など、皆さまの暮らしを支える情報をお届けします。
+
+※このツイッターに寄せられたコメントへの返信はしておりません。
+
+【運用方針】https://t.co/aGmzcuVoTx",False,2010-08-20,1000695,13,東京都千代田区霞が関　中央合同庁舎５号館,"【#COVID-19 Press Conference】
+On February 24, Experts held a press conference on the case of the coronavirus at the Ministry of Foreign Affairs of Japan.
+→https://t.co/F3hJ8ToQpV
+https://t.co/wGu0i1x8Yt 
+https://t.co/S9nCI76txu
+(1/3)",0.0,0.0,1.0,0.0
+48,1231963901689884673,2020-02-24,https://twitter.com/XHNews/status/1231963901689884673,170,4,56,105,11,en,True,True,False,False,,1,False,487118986,China Xinhua News,"Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias
+Our App: https://t.co/uYjoablw4w",False,2012-02-09,12040734,76,"Headquartered in Beijing, PRC","A lightning-speed mask factory that can assemble 1,000 medical masks/min was launched in Guangzhou, south China, #COVID-19 https://t.co/WotDl05Yio https://t.co/ZKcWGMkbyG",0.128,0.12,0.88,0.0
+49,1231931796792791040,2020-02-24,https://twitter.com/globaltimesnews/status/1231931796792791040,263,25,1021,2069,16,en,True,True,False,False,,6,True,49616273,Global Times,"China's national English language newspaper, under the People's Daily. Apps: https://t.co/S9E7BpFVPI",False,2009-06-22,1881378,540,"Beijing, China","No more work and no more events, K-pop industry should value safety over money amid #COVID-19 outbreak. Chinese fans of #Kpop stars including #Lisa, member of #BlackPink, want their idols to stay at home for safety. https://t.co/DEF8DBDM9O https://t.co/0Z9S1S85Uh",0.8074,0.329,0.671,0.0
+50,1231923527688867840,2020-02-24,https://twitter.com/RealHKNews/status/1231923527688867840,301,8,82,78,8,en,False,True,False,False,,2,True,1328352025,Real Hong Kong News,"A group of volunteers translating news about #HongKong from Cantonese to English
+RT ≠ Endorsement
+❤️ = thx and/or track",False,2013-04-05,5531,634,Hong Kong,"After repeatedly refused 2 shut Chinese boarders despite public demand in midst of China's #Covid_19 epidemic, #HongKong gov has issued red travel alert against S Korea as #COVID cases⬆️non-residents banned from entering HK from SKorea from tmr 
+
+#WuhanCoronavirus #coronavirus https://t.co/MBwK6ftbyb",-0.3879,0.109,0.732,0.159
+51,1231865666409500673,2020-02-24,https://twitter.com/LucyHockingsBBC/status/1231865666409500673,294,10,9,190,4,en,False,True,False,False,,1,True,74264602,Lucy Hockings,"Presenter/Anchor of Live with Lucy Hockings,@bbcworld New Zealander who calls London home.",False,2009-09-14,22821,1184,London,"This is the London team working on bringing you today’s impartial, balanced news on #covid-19 #TrumpIndiaVisit #Idlib
+I am incredibly PROUD of all the talented and committed people  ⁦@BBCWorld⁩ and the work we do broadcasting to over 100 million people around the world. https://t.co/tgrtQtsVWW",0.877,0.324,0.676,0.0
+52,1231819264253816834,2020-02-24,https://twitter.com/XHNews/status/1231819264253816834,129,9,34,117,5,en,True,True,False,False,,0,False,487118986,China Xinhua News,"Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias
+Our App: https://t.co/uYjoablw4w",False,2012-02-09,12040734,76,"Headquartered in Beijing, PRC",No new confirmed #COVID-19 cases reported in 24 provincial-level regions of China https://t.co/p8JejESpkn https://t.co/Umq7JwtNx1,0.0,0.0,1.0,0.0
+53,1231775548231340032,2020-02-24,https://twitter.com/HelenBranswell/status/1231775548231340032,225,3,46,79,3,en,True,True,False,False,,0,False,28838219,Helen Branswell 🇺🇦,I cover infectious diseases @statnews. 2020 Polk winner. Nieman '11. She/her. Checkmarked pre-Elon. #Covid #polio #flu https://t.co/httca8ZASg,False,2009-04-04,224666,2071,"Boston, MA","1. South Korea has posted its morning (Feb. 24) #Covid numbers. They now have 763 cases (+161) &amp; 7 deaths (+2).
+Most of the cases are still from the religious sect at Daegu. https://t.co/sueAO9XLF7 https://t.co/IYX5mQKdx6",0.0,0.0,1.0,0.0
+54,1231773916994998272,2020-02-24,https://twitter.com/XHNews/status/1231773916994998272,271,4,22,71,3,en,True,True,False,False,,0,False,487118986,China Xinhua News,"Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias
+Our App: https://t.co/uYjoablw4w",False,2012-02-09,12040734,76,"Headquartered in Beijing, PRC","China is ready to strengthen cooperation with Japan to fight #COVID-19, jointly safeguard health and safety of two peoples and uphold public health security in region and world, says Chinese Ambassador to Japan Kong Xuanyou https://t.co/LHYzfNg8LL https://t.co/HeJcJUksko",0.8402,0.368,0.556,0.076
+55,1231731126177165312,2020-02-24,https://twitter.com/XHNews/status/1231731126177165312,215,7,46,160,7,en,False,True,False,False,,1,False,487118986,China Xinhua News,"Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias
+Our App: https://t.co/uYjoablw4w",False,2012-02-09,12040734,76,"Headquartered in Beijing, PRC","While many in China are twiddling their thumbs at home due to #COVID-19, this farmer in N China's Inner Mongolia has used the time to get creative and built a playground for his grandchildren https://t.co/rmnIoKDG8b",0.4404,0.146,0.854,0.0
+56,1232442332739301376,2020-02-25,https://twitter.com/XHNews/status/1232442332739301376,200,8,60,151,7,en,False,True,False,False,,2,True,487118986,China Xinhua News,"Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias
+Our App: https://t.co/uYjoablw4w",False,2012-02-09,12040734,76,"Headquartered in Beijing, PRC","Nurses from Sichuan have brought five animals to a Wuhan hospital to help patients. 
+Don't be alarmed, the animals might not be what you first imagine... #martialarts #COVID-19 https://t.co/2R46LquwB9",0.0772,0.141,0.733,0.126
+57,1232437584535506944,2020-02-25,https://twitter.com/ProfessorAMuse/status/1232437584535506944,284,20,81,95,2,en,True,False,False,False,,1,False,1956573918,𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐨𝐫 𝐀 𝐌𝐮𝐬𝐞 💬,Designer | Art Historian | Museum Educator | Professor | @MUSEUMSwoWALLS | Advocate of #Education | #HumanRights | #Equality | #LGBTQIA | Living In #GoodTrouble,False,2013-10-12,17677,18658,"New York, New York ","Exponentially spreading by the day &amp; we have Ken Cuccinelli googling maps, Rush Limbaugh saying it is a mere cold; either #COVID-19 will help us defeat Trump killing the economy or we will die. I feel better don't you? Corona Virus Iran, Italy, South Korea https://t.co/zDurkte5SW",-0.7717,0.131,0.606,0.263
+58,1232407200934400000,2020-02-25,https://twitter.com/V2019N/status/1232407200934400000,137,16,56,79,5,en,False,False,False,False,,6,False,1218324988966531072,COVID19 😷 💉,"Tweeting about COVID-19 since January 2020
+#WearAMask indoors during surges 😷 #GetVaccinated 💉#GetBoosted 
+Stock up on masks & tests.",False,2020-01-18,135992,1305,,"Good question from @VOANews reporter asking about CFR of influenza vs. #COVID 
+Fauci: most seasonal flu ~0.1%, 1918 flu 1.5-2%, COVID ~2%",-0.3182,0.131,0.633,0.235
+59,1232398692948365318,2020-02-25,https://twitter.com/Quicktake/status/1232398692948365318,224,89,168,240,71,en,False,True,False,False,,4,False,252751061,Bloomberg Quicktake,"Global news and original shows. Streaming free, 24/7.",False,2011-02-15,1275453,1551,,"HHS Secretary Alex Azar says there’s “low immediate risk” from coronavirus to Americans, even as the CDC warned citizens to prepare for a #COVID-19 outbreak that could significantly disrupt daily life https://t.co/wQGgYmfpeF",-0.6486,0.0,0.76,0.24
+60,1232336437724364800,2020-02-25,https://twitter.com/JenniferNuzzo/status/1232336437724364800,275,2,65,84,4,en,True,False,False,False,,2,False,35815074,"Jennifer Nuzzo, DrPH","Epidemiology and global health security policy. 
+https://t.co/47uXVOSCLj…
+Speaking requests: https://t.co/mflNldsXnL",False,2009-04-27,49653,1470,"Baltimore, MD ","""In Hawaii, authorities are so alarmed about the lack of testing ability that they requested permission from the CDC to use tests from Japan."" NOTE: Really important that Hawaii get this b/c traveler from Japan dx w/ #COVID-19 upon return from Hawaii. https://t.co/uzBQjlQeuB",-0.6494,0.129,0.616,0.255
+61,1232330229991034881,2020-02-25,https://twitter.com/knightofdelta/status/1232330229991034881,85,11,54,55,13,en,False,False,False,False,,1,False,299865877,The Crypto Priest,"creating my own path... riding this ship to IPO
+whenever I am down, @zaynmalik lifts my spirit",False,2011-05-16,24609,783,London ,"Brent crude oil price - $55.03
+Nigerian oil budget benchmark 2020 - $57.00
+
+#COVID-19",-0.5719,0.0,0.748,0.252
+62,1232326278511882240,2020-02-25,https://twitter.com/JasonMBrodsky/status/1232326278511882240,230,7,62,79,0,en,True,False,False,False,,0,True,1908627954,Jason Brodsky,Policy Director @UANI. Non-Resident Scholar @MiddleEastInst. Research focus: leadership dynamics in Iran and the IRGC. Contact: jmbrodsky@proton.me,False,2013-09-26,56334,6032,,"Pompeo today: “The United States is deeply concerned by information indicating the Iranian regime may have suppressed vital details about the outbreak in that country.""
+
+#CoronaVirus #COVID #COVIDー19 #Iran
+
+https://t.co/pEJY0dr96N",0.6124,0.208,0.792,0.0
+63,1232318060247171076,2020-02-25,https://twitter.com/davidasinclair/status/1232318060247171076,110,35,119,398,12,en,False,False,False,True,,15,True,520445177,David Sinclair,"-Scientist, Professor @ Harvard Medical School
+-Author, Host: Lifespan book & podcast
+-Mission: extend lifespan for all
+-Learn more: https://t.co/uzVAKX25Pp",False,2012-03-10,384227,1271,Boston,"This video of Iran’s Deputy Health Minister will go down in history. 
+#Coronavirius #irancorona #CVID19 #COVID",0.0,0.0,1.0,0.0
+64,1232315952173203460,2020-02-25,https://twitter.com/UNGeneva/status/1232315952173203460,280,49,213,326,25,en,False,True,False,False,,0,True,164263382,United Nations Geneva,"🇺🇳 Working for peace, rights & wellbeing. https://t.co/VuvBq5PDLE https://t.co/NZLKiN3kHe https://t.co/cWPZ5ASKXc https://t.co/FmxC4MrERc",False,2010-07-08,939379,2041,"Geneva, Switzerland","My strong appeal to all countries: 𝒂𝒔𝒔𝒖𝒎𝒆 𝒚𝒐𝒖𝒓 𝒓𝒆𝒔𝒑𝒐𝒏𝒔𝒊𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔!
+
+The disease can still be contained, but if some don't do everything needed, the situation can get out of control w/ dramatic consequences in global health &amp; economy.
+#Coronavirius #COVID https://t.co/hALIXEuC9M",0.5562,0.146,0.854,0.0
+65,1232313608379351040,2020-02-25,https://twitter.com/MyFrogCroaked/status/1232313608379351040,265,5,38,75,5,en,True,True,False,False,,0,True,3158695989,Dr. Jonathan Kolby,@Smithsonian #OneHealth Scientist• @NatGeo Explorer• #WTQuiz •Former @USFWS @CITES #WildlifeTrade Expert• @HondurasARCC FROG Rescue|@JCU PhD-Chytrid/Ranavirus,False,2015-04-12,18951,7400,"DC, NJ, Honduras, UK & France","Unfortunately, this needs repeating. PLEASE STOP SAYING THAT THE #CORONAVIRUS OUTBREAK IS REVENGE OF THE #PANGOLINS. For many reasons, this is *wrong*. Do you disagree? Read here: https://t.co/HCQrBFMOqc #racism #environment #wildlife #COVID https://t.co/8biSvdHM9b",-0.9454,0.086,0.368,0.546
+66,1232292828509765634,2020-02-25,https://twitter.com/AlArabiya_Eng/status/1232292828509765634,234,19,249,242,59,en,True,True,False,False,,7,True,22240612,Al Arabiya English,The Arab world’s leading source of global news and opinion.,False,2009-02-28,926283,46,Dubai,"Watch: Video shows the Iranian deputy minister for health sweating and coughing during a press conference held one day before he announced he tested positive for #coronavirus. #COVID-19
+
+https://t.co/t49nL7i9va https://t.co/GY4DbrQY9p",0.5574,0.167,0.833,0.0
+67,1232251842677088256,2020-02-25,https://twitter.com/SKyriakidesEU/status/1232251842677088256,225,3,20,67,3,en,False,False,False,False,,0,False,2476130260,Stella Kyriakides,European Commissioner for Health and Food Safety. Human rights advocate. Focus on the positive.,False,2014-04-11,61719,3026,"Brussels, Belgium",I welcome the support of the joint mission of experts from @ECDC_EU and @WHO_Europe which is currently in Italy to support #COVID-19 control and prevention efforts. Solidarity and cooperation is key to address this situation.,0.8625,0.414,0.586,0.0
+68,1232222155649085440,2020-02-25,https://twitter.com/WHOSEARO/status/1232222155649085440,149,16,180,241,11,en,False,True,False,False,,8,True,1545915336,WHO South-East Asia,WHO SEARO Country accounts: @WHOIndonesia @WHOMaldives @WHOMyanmar @WHONepal @WHOSriLanka @WHOThailand @WHOTLS,False,2013-06-25,149447,749,"New Delhi, India",Hand hygiene and coughing etiquette will protect against and prevent spread of seasonal flu as well as #coronavirus #COVID-19 https://t.co/CfW0CijfVO,0.6597,0.484,0.376,0.14
+69,1232154055155146753,2020-02-25,https://twitter.com/Crof/status/1232154055155146753,228,4,122,176,17,en,True,False,False,False,,15,True,19042993,Crawford Kilian,Retired college teacher & persistent writer. Now on Substack https://t.co/ZI2mFCndIM Born 1941 (CO2 ppm: 310). Polio survivor.,False,2009-01-15,10742,4236,"North Vancouver, BC","#COVID #coronavirus is entering a new stage. Containment has proven extremely difficult, and a vaccine is too far away to help. A sober acceptance of risk is vital to avoiding panic, writes @jameshamblin: https://t.co/Ui44xzEq3Y",-0.4005,0.243,0.431,0.326
+70,1232125332943077376,2020-02-25,https://twitter.com/hanhua_silkroad/status/1232125332943077376,274,9,85,309,4,en,False,True,False,False,,9,True,1148600871292493825,Han Hua,"Communication, Charity, China stories",False,2019-07-09,179,49,"Beijing, China","“A bow that travels through time: A three-year-old patient in Shaoxing, east China, bowed to thank the nurse who helped him recover from #Coronavirus #COVID the same action from a young boy to a doctor was captured roughly 100 years ago in Hangzhou.” https://t.co/dFYeKlmIPW",0.3612,0.094,0.906,0.0
+71,1232815640022409216,2020-02-26,https://twitter.com/AynRandPaulRyan/status/1232815640022409216,232,111,562,1174,36,en,False,False,False,False,,15,True,755835576,Holly Figueroa O'Reilly,Chocolatier. Owner @marcenetmerc. Sued Trump and won. Twice. Op-eds: @washingtonpost @guardian. I have 5 kids. You can't scare me.,False,2012-08-13,250828,7397,Seattle,"Okay, let's clear this up right now.
+
+The flu infects up to 45 million people every year and kills up to 70k.
+
+#covid kills at a rate of 2.3%.
+If 45 million people contract COVID, that's1,035,000
+
+#coronavirususa #coronavirusupdates",-0.7269,0.128,0.598,0.274
+72,1232725365191249922,2020-02-26,https://twitter.com/CathayPak/status/1232725365191249922,276,8,82,340,0,en,False,False,False,True,,0,False,3612384374,Chinese Emb Pakistan,Embassy of the People's Republic of China in the Islamic Republic of Pakistan 欢迎关注中国驻巴基斯坦使馆官方推特。让我们一起续写中巴友谊，讲好中国故事。,False,2015-09-19,159603,192,"اسلام آباد, پاکستان",We learned with heavy heart of two confirmed COVID-19 cases in Pakistan. We hope the speedy recovery of the patients. China stands ready to work with Pakistan in the fight against #COVID-19. @zfrmrza @MFA_China @ForeignOfficePk @ImranKhanPTI @WorldPTV @XHNews @PDChina @zlj517,0.4215,0.169,0.75,0.081
+73,1232718231623913473,2020-02-26,https://twitter.com/harvardmed/status/1232718231623913473,224,3,51,84,1,en,True,False,False,False,,0,False,30862829,Harvard Medical School,"Official Twitter home of Harvard Medical School, featuring our advances in biomedical research, trends in medical education, and more.",False,2009-04-13,431032,689,"Boston, MA","Prominent scientists from Massachusetts universities, hospitals and biotechs are expected to convene next week at HMS to brainstorm ways to treat and prevent the spread of #COVID-19 (via @BostonGlobe) https://t.co/vYf6NH8Ayb",0.6249,0.276,0.724,0.0
+74,1232684876698148864,2020-02-26,https://twitter.com/ntvkenya/status/1232684876698148864,292,132,41,142,43,en,False,True,False,False,,0,False,25985333,NTV Kenya,"LIVE STREAM:  https://t.co/5rVOVJBfX8 ____________ for breaking news @NTVnewsroom, @NTVSasa for Kiswahili updates.",False,2009-03-23,4373341,370,"Nairobi, Kenya","UPDATE: MoH advises Kenyans against non-essential travel to countries experiencing #COVID-19 outbreak.
+
+China Southern Airlines resumed flights to Nairobi today; all passengers on board screened, cleared and advised to self-quarantine for the next two weeks, MoH adds. https://t.co/pst6re5Nz2",0.1027,0.049,0.951,0.0
+75,1232616154310553601,2020-02-26,https://twitter.com/DaryaQoja/status/1232616154310553601,273,0,7,52,0,en,False,False,False,True,,0,False,1166033882065637376,Darya Nehad Qoja ☀️,"German-Kurd, Hewlêrî | Qelatî | Kurdistanî, B.A. in Political Science and Psychology, كورد، كوردی، كوردستان ⛰",False,2019-08-26,1981,371,Germany | Kurdistan,"It saddens me to hear that this year‘s Newroz celebrations may be canceled due to coronavirus outbreak. 
+
+Nevertheless, it's a very responsible decision to prevent the spread of #COVID-19.
+
+May the spirit of Newroz 🔥 give us the strength to overcome this terrible epidemic.",0.0772,0.249,0.571,0.18
+76,1232565963117211649,2020-02-26,https://twitter.com/CGTNOfficial/status/1232565963117211649,159,2,28,98,3,en,False,True,False,False,,1,False,1115874631,CGTN,CGTN is an international media organization. It aims to provide global audiences with accurate and timely news coverage as well as rich audiovisual services.,False,2013-01-24,13051946,76,"Beijing, China",What do #COVID-19 patients do before they get discharged? CCTV reporter recorded the last few hours of Wan Chunhui before the discharge https://t.co/5tWOcbmJqD,0.0,0.0,1.0,0.0
+77,1232526574194434049,2020-02-26,https://twitter.com/CEDRdigital/status/1232526574194434049,305,6,109,98,7,en,False,True,False,False,,3,True,904740870817120256,CEDR Digital Corps,"Digital Helpers During Disasters to clarify, amplify, & inform.
+Not 24x7▪501c3▪❤/RT🚫endorsement
+https://t.co/mvg3np6Rln
+https://t.co/rD7U3cM6J6",False,2017-09-04,8770,982,United States,"#Coronavirus UPDATE Feb 25 9PM EST
+The current GLOBAL statistics  
+-80,994 total # of confirmed cases🌎
+-78,064 cases in Mainland China
+-8,752 cases are severe in China
+-2,760 patients have died 🌎
+-30,065 have recovered 🌎
+
+1/2  #COVID2019 cases outside of #China &amp; #US 👇🏾
+#COVID https://t.co/gu7nASGrRQ",-0.7351,0.0,0.838,0.162
+78,1232511779588186112,2020-02-26,https://twitter.com/Quicktake/status/1232511779588186112,89,1,38,78,2,en,False,True,False,False,,2,False,252751061,Bloomberg Quicktake,"Global news and original shows. Streaming free, 24/7.",False,2011-02-15,1275452,1551,,Here are 5 things we learned Tuesday about the #COVID-19 outbreak https://t.co/N4mfghrDFv,0.0,0.0,1.0,0.0
+79,1232502563431305216,2020-02-26,https://twitter.com/EdselSalvana/status/1232502563431305216,195,6,37,74,5,en,True,False,False,False,,6,True,3138945535,Dr. Edsel Salvana,"Infectious Diseases Physician, Professor, Manila Bulletin Columnist, @TEDFellow #HIV and #vaccine activist. Also on https://t.co/url2djOxZ8",False,2015-04-04,27866,400,Republic of the Philippines,"Who is afraid of a #Pandemic? With good preparation, we can weather the storm. My latest #Esquire article on how to survive a #COVID-19 Pandemic IF it happens. #SARSCoV2   https://t.co/fNiOr336Vt",0.4404,0.182,0.818,0.0
+80,1233140759328698380,2020-02-27,https://twitter.com/SenJeffMerkley/status/1233140759328698380,300,45,506,568,33,en,True,True,False,False,,24,False,29201047,Senator Jeff Merkley,"Dad, runner, Chief Filibuster Antagonist. U.S. Senator from Oregon.",False,2009-04-06,494565,1095,Oregon,PLEASE SHARE: I just launched a new resource for people seeking information about the coronavirus (#COVID-19). I outline steps that must be taken to protect Americans + compiled recommendations/resources from @CDCgov  @OHAOregon &amp; @JohnsHopkinsSPH. https://t.co/BKKuv8WmMP https://t.co/1du7hcvV3p,0.8429,0.359,0.641,0.0
+81,1233137357232066560,2020-02-27,https://twitter.com/YunLinSJ/status/1233137357232066560,197,13,45,163,5,en,False,True,False,False,,3,True,3068910949,YunLinSJ,Hopelessly hopeful,False,2015-03-09,690,595,"San Jose, CA","In January, #Tesla just had the best China 1st month of a quarter sales since #Model3 started, beating 2019 Q2 by &gt;30%, even with #COVID-19 holding back sales in late Jan https://t.co/WQ91AULs2C",0.296,0.154,0.735,0.11
+82,1233104979646349312,2020-02-27,https://twitter.com/Healthmac/status/1233104979646349312,64,32,257,422,99,en,False,False,False,False,,32,True,3145930709,Dr. Chris Mackie,Pausing activity in solidarity with @CBC @BBC @NPR,False,2015-04-08,12665,2186,,A thread on why I am not panicking about #Coronavirus #COVID-19.,-0.4404,0.0,0.508,0.492
+83,1233097991835144192,2020-02-27,https://twitter.com/rod_inanimate/status/1233097991835144192,255,3,22,63,4,en,False,True,False,False,,1,False,1032698975781044224,Inanimate Carbon Rod,"looking out the train window, talking aloud to no one in particular",False,2018-08-23,1984,174,somewhere,"Salena Zito on Obama's ebola response: EVERYBODY KNOWS THIS GOVERNMENT IS INCOMPETENT, DON'T TRUST THEM
+
+Salena Zito on Trump's #COVID response: They've so clearly demonstrated their competence, why would you even ask that question https://t.co/r3jH5Cv1Pa",0.4404,0.22,0.654,0.125
+84,1233096443881127936,2020-02-27,https://twitter.com/TexCIS/status/1233096443881127936,162,14,38,103,5,en,False,True,False,False,,8,True,54282197,MAGA TexCIS,"FAITH, FAMILY, FRIENDS, FOOD & FREEDOM. #MAGA #USA.  CIS stands for Computer Information Systems. Studied science, logic, biology, economics. I follow back.",False,2009-07-06,2170,3232,United States,"This is NOT the FLU, it's WORSE...more infectious, more deadly and NO vaccine!
+#CoronavirusOutbreak #COVID19 #Covid19USA #COVID #Covid19US https://t.co/DPlyjlxXUG",-0.561,0.0,0.713,0.287
+85,1233091377153691648,2020-02-27,https://twitter.com/NetworksManager/status/1233091377153691648,281,13,169,111,17,en,True,False,False,False,,4,True,115681686,Bruce Porter Jr. ,"Early Bitcoin investor. Name is synonymous with the monetary revolution. CEO @GlobalBoost, Founder @Washington Elite.  We are all Impactoshi @Impact_Protocol✌️",False,2010-02-19,117587,93890,"Washington, DC","This man, @NickDixonITV shows how he just arrived from a known #CoronavirusOutbreak spot, Milon and no checks whatsoever at Heathrow Airport. This is the same for every single US airiport, folks. There is a tenth of the world under quarantine🤦‍♂️.
+#COVID-19
+https://t.co/eG49b9JnUO",0.0,0.0,1.0,0.0
+86,1233084011955679237,2020-02-27,https://twitter.com/damon_pang/status/1233084011955679237,275,15,75,104,23,en,False,False,False,False,,4,True,3384104129,Damon Pang,#HongKong radio journalist. Views here are my own. Retweet ≠ endorsement.,False,2015-07-20,25290,1107,Hong Kong,"The dog of the #HongKong Jockey Club member who’s been confirmed with #COVID has also tested positive for the virus, the Govt says in a late night statement. The woman lives in Tai Hang. The dog’s been taken, alone, to a keeping facility on the bridge to Macau for quarantine",0.3818,0.11,0.828,0.061
+87,1233080815493447680,2020-02-27,https://twitter.com/powerfultakes/status/1233080815493447680,167,27,5,42,1,en,False,False,False,False,,1,False,23549130,Anatoly Karlin,"Transhumanist (it/its). Interests: Universal psychometrics (👩‍🔬,🐘,🤖), UBI, life extension, animal uplift, crypto. Inventor of Katechon Hypothesis.",False,2009-03-10,35643,452,🌐pen 🏴orders,"National #COVID response ratings to date - agree/disagree?
+* Good: Italy; Singapore; S. Korea.
+* Mediocre: China; Taiwan.
+* Bad: Germany; Japan; USA.
+* Terrible: Iran.",-0.5719,0.109,0.642,0.249
+88,1233078067981115393,2020-02-27,https://twitter.com/RepJudyChu/status/1233078067981115393,292,9,34,134,4,en,False,True,False,False,,1,True,193732179,Judy Chu,"Proudly representing #CA28, California's 28th District in the U.S. House of Representatives. Ways and Means. Small Business. Chair of @CAPAC.",False,2010-09-22,84718,46550,"Pasadena, CA","“Ethnicity is not what causes the novel coronavirus.” Today, I pressured HHS @SecAzar to stop referring to #COVID-19 as the Chinese #Coronavirus, and I thank him for recognizing that ethnicity is not a factor. Spreading xenophobia will not stop the spread of COVID-19. https://t.co/mgDoQDCkSD",-0.128,0.171,0.605,0.224
+89,1233056971156271104,2020-02-27,https://twitter.com/RepCohen/status/1233056971156271104,275,37,90,234,4,en,True,False,False,False,,0,True,162069635,Steve Cohen,Memphis | Ranking Member of Aviation Subcommittee | Champion for Justice and Civil Rights on Judiciary Committee | House Ranking Member of Helsinki Commission,False,2010-07-02,87446,6387,"Memphis, TN","Mike Pence is not a #PublicHealth expert. As Governor, his policies led to the worst #HIV outbreak in Indiana history. Putting him in charge of the U.S. response to the #Coronavirus shows that the Trump doesn’t know what he’s doing. #Pencedemic #COVID
+https://t.co/8ahQf9Tw0z",-0.6249,0.0,0.854,0.146
+90,1233056232845516810,2020-02-27,https://twitter.com/Mr_Dave_Haslam/status/1233056232845516810,128,19,229,652,25,en,False,True,False,False,,7,False,158785266,Dave Haslam,"Hacienda DJ, journalist (LRB, Guardian, Les Inrocks, NME etc), writer (recent books on Courtney Love, Haring, Sylvia Plath, Pablo Picasso).",False,2010-06-23,50689,3412,Manchester,"Coronavirus #COVID-19: A story by Joy Division...
+
+Incubation 
+Transmission 
+Colony 
+Disorder 
+Isolation https://t.co/YQV1AibQJS",-0.1531,0.235,0.432,0.333
+91,1233052439642853382,2020-02-27,https://twitter.com/HelenBranswell/status/1233052439642853382,227,22,82,217,9,en,True,False,False,False,,3,False,28838219,Helen Branswell 🇺🇦,I cover infectious diseases @statnews. 2020 Polk winner. Nieman '11. She/her. Checkmarked pre-Elon. #Covid #polio #flu https://t.co/httca8ZASg,False,2009-04-04,224666,2071,"Boston, MA","2. The woman was transferred to UCDavis Medical Center on Feb. 19, already on a ventilator. Anyone involved in intubating her would be at risk of contracting #Covid 19 if they weren't wearing proper PPE. https://t.co/RxqRETSAeu",-0.2732,0.0,0.905,0.095
+92,1233050662709157888,2020-02-27,https://twitter.com/healthcareandy/status/1233050662709157888,303,26,87,424,11,en,False,True,False,False,,0,True,1028779344704032770,Andy Mychkovsky 🍕,"Tweets about U.S. healthcare | Join 5,000 healthcare readers here: https://t.co/4uotjdkYc4",False,2018-08-12,17452,859,Join 5k Healthcare Readers 👇,"Chinese doctors / nurses are literally sleeping on floors in between #coronavirus shifts.
+
+I’m not asking you to ❤️ the Chinese gov, but at least show respect to the workers.
+
+- - -
+
+#China #virus #CoronaVirusUpdates #coronavirususa #COVIDー19 #COVID #CoronavirusOutbreak #BTSARMY https://t.co/0p6W6vCr8n",0.4767,0.119,0.881,0.0
+93,1233046239781978114,2020-02-27,https://twitter.com/CathayPak/status/1233046239781978114,276,4,40,97,2,en,False,False,False,False,,0,False,3612384374,Chinese Emb Pakistan,Embassy of the People's Republic of China in the Islamic Republic of Pakistan 欢迎关注中国驻巴基斯坦使馆官方推特。让我们一起续写中巴友谊，讲好中国故事。,False,2015-09-19,159603,192,"اسلام آباد, پاکستان","Tips on Prevention of COVID-19 Epidemic:I.Reduce outdoor activities as much as possible.1.Avoid visiting areas where the disease is prevalent.2.Make less visits and dining together, and stay at home as much as possible.3.Avoid visits to crowded public areas. #COVID-19@zfrmrza",0.0,0.0,1.0,0.0
+94,1233039081774440448,2020-02-27,https://twitter.com/ose_anenih/status/1233039081774440448,280,5,134,122,6,en,False,False,False,True,,0,True,131802896,Ose Anenih,"Hotelier ● Politician ● Satirist ● Co-Host, the Eagle Badger Podcast ● Deputy Director, Polling, PDP Presidential Campaign Council",False,2010-04-11,42534,4091,Nigeria,"Public Enemy No. 1 @therealdayne has 3k followers.
+
+You, on the other hand, have 784k followers who saw you tweet (then delete) a lie about your Chairman’s #COVID statement.
+
+These 784k followers then read your #FakeNews thread formalIzing the lie.
+
+Has the handler been arrested?",-0.6808,0.091,0.657,0.251
+95,1233038953994842114,2020-02-27,https://twitter.com/CGTNOfficial/status/1233038953994842114,300,5,69,146,6,en,True,True,False,False,,1,True,1115874631,CGTN,CGTN is an international media organization. It aims to provide global audiences with accurate and timely news coverage as well as rich audiovisual services.,False,2013-01-24,13051946,76,"Beijing, China","Chinese President #XiJinping appreciated Mongolia's support in fighting #COVID-19 in a meeting with Mongolian President Khaltmaa Battulga.
+
+In a separate meeting with Battulga, Premier Li Keqiang said his visit is an earnest practice to support #China. https://t.co/Dt50MRBnAj https://t.co/qpXKgju25D",0.8591,0.348,0.58,0.072
+96,1233037276654993413,2020-02-27,https://twitter.com/NickDixonITV/status/1233037276654993413,176,406,1941,2571,408,en,False,True,False,False,,50,True,59504314,Nick Dixon,Correspondent for @GMB. Links and retweets aren't endorsements. Opinions are my own. https://t.co/AjxTgZENmd,False,2009-07-23,23375,3391,,Just arrived at Heathrow T5 after 4 days in Milan - was fully expecting a thermal temperature check. Nothing. Straight through. #CoronaVirus #COVID @GMB https://t.co/nS1tanpVV8,-0.1695,0.0,0.9,0.1
+97,1233035617836994560,2020-02-27,https://twitter.com/AynRandPaulRyan/status/1233035617836994560,78,11,27,79,2,en,False,False,False,True,,0,True,755835576,Holly Figueroa O'Reilly,Chocolatier. Owner @marcenetmerc. Sued Trump and won. Twice. Op-eds: @washingtonpost @guardian. I have 5 kids. You can't scare me.,False,2012-08-13,250828,7397,Seattle,"Pence's answer to #COVID will be to pray the virus away, probably.
+#Pencedemic",0.3182,0.247,0.753,0.0
+98,1232991356844466176,2020-02-27,https://twitter.com/SkyNews/status/1232991356844466176,227,357,104,249,136,en,True,True,False,False,,8,True,7587032,Sky News,"For breaking news @SkyNewsBreak. Watch live on Sky 501, Virgin Media HD 602, Freeview 233 and YouTube.
+
+Download our app: https://t.co/B2AP8GvitH",False,2007-07-19,8409804,25,"London, UK","""We have made every possible preparation"" 
+
+Prime Minister @BorisJohnson gives assurances that the UK is setup to deal with the #coronavirus outbreak.
+
+Get more on #COVID-19 here: https://t.co/dodkEDbLIw https://t.co/YCC8xpaEwe",0.34,0.124,0.876,0.0
+99,1232975186644758528,2020-02-27,https://twitter.com/PDChina/status/1232975186644758528,295,3,58,121,4,en,False,True,False,False,,4,False,303862998,"People's Daily, China",The largest newspaper in China,False,2011-05-23,6692513,4228,"Beijing, China","Japanese Prime Minister Shinzo Abe said on Thursday that the government will ask all elementary, junior-high and high schools to temporarily close beginning March 2, a couple of weeks ahead of the spring break, in an effort to curb the spread of #COVID-19 in the country. https://t.co/belSRgI3GW",0.0,0.0,1.0,0.0
+100,1232952761802731521,2020-02-27,https://twitter.com/LBC/status/1232952761802731521,158,62,447,1030,133,en,False,True,False,False,,64,True,20973388,LBC,"Leading Britain's Conversation. For breaking news alerts, follow @LBCNews. Listen live on @globalplayer",False,2009-02-16,651378,2246,United Kingdom,"How the spread of coronavirus has been much, much quicker than previous viruses like SARS and Ebola.
+
+#CoronavirusOutbreak | #Covid-19 https://t.co/PFm5f7lGOz",0.3612,0.185,0.815,0.0
+101,1232903184986910720,2020-02-27,https://twitter.com/CGTNOfficial/status/1232903184986910720,105,8,41,131,6,en,False,True,False,False,,1,True,1115874631,CGTN,CGTN is an international media organization. It aims to provide global audiences with accurate and timely news coverage as well as rich audiovisual services.,False,2013-01-24,13051946,76,"Beijing, China","#China's envoy offers 250,000 masks to #Iran over #COVID-19 outbreak #covid19iran https://t.co/5y8v32AsmI",0.0,0.0,1.0,0.0
+102,1232846323805827072,2020-02-27,https://twitter.com/lesleyabravanel/status/1232846323805827072,139,22,198,493,24,en,False,False,False,False,,2,False,27943005,Lesley Abravanel 🪩,"Disco-loving, fascism fighting scribe, game show champ, yenta, wife, twin mama, hot sauce collector, Bloody Mary maven, word nerd, & says @NYPost, savvy gadfly.",False,2009-03-31,70839,55307,DeSantistan ,"""I found most of what he said incoherent.""
+
+— World Health Org. Dr. Ezekiel Emanuel reacts to Trump's press conference regarding #COVID-19.",0.0,0.0,1.0,0.0
+103,1232842878776422404,2020-02-27,https://twitter.com/alt_fda/status/1232842878776422404,245,6,66,107,18,en,False,False,False,False,,6,True,824326864407822336,AltFDA,Not FDA but close enough we can micro swab them. 💥Whitehouse recognized NGO working with the Biden admin. to end Covid💥,False,2017-01-25,155000,553,"Washington, DC","Hello followers: let’s have a serious convo about #Covid-19 and the state of what will be our main go-to for addressing this virus, cold and flu medications. 
+A large percentage of these medications rely on 1 active ingredient, Ibuprofen #Thread",-0.0516,0.105,0.742,0.152
+104,1232829632090533888,2020-02-27,https://twitter.com/michael_muscato/status/1232829632090533888,233,10,82,272,4,en,False,False,False,False,,0,True,1114738242971209728,Michael Muscato,"Husband, Father, Son, MPA, Video Director/Crew Chief for live music concerts, #Entrepreneur, ‘20 Nominee for U.S. Congress #AZ08. Always Country Over Party",False,2019-04-07,36400,5393,Arizona,"Faced with a potential pandemic our fearless leader puts the guy who thought conversion therapy would cure homosexuality in charge of the #coronavirususa 
+
+“Only the best” ...  
+
+#Covid_19 #COVID #Pence #Epidemic #flu #whatarewedoing",0.6705,0.231,0.684,0.085
+105,1233510766336233473,2020-02-28,https://twitter.com/Foldit/status/1233510766336233473,306,32,1026,1158,218,en,True,True,False,False,,74,True,52245050,Foldit,"Foldit is a free scientific discovery game that lets you to contribute to important biochemistry research.  🎮 🧬
+Join our Discord! https://t.co/e5OdzvAZ7n",False,2009-06-30,4482,34,University of Washington,"Today we're calling on YOU to help design antiviral proteins against #coronavirus:
+
+https://t.co/ecqJmpXaj8
+
+The most promising solutions will be manufactured &amp; tested at the Institute for Protein Design (@UWproteindesign) in Seattle. 
+
+#CitizenScience #COVID #COVID2019 #citsci https://t.co/TsknpmwCyN",0.7269,0.272,0.728,0.0
+106,1233473388968075265,2020-02-28,https://twitter.com/OrinKerr/status/1233473388968075265,217,82,36,240,7,en,False,False,False,False,,20,False,1266209922,Orin Kerr,"Law professor at Cal @BerkeleyLaw. 
+https://t.co/YtnBrAIKl3",False,2013-03-14,119424,4466,"Berkeley, California","What are good accounts to follow for expert opinions/analysis relating to #COVID-19?   I'm thinking of people like infectious disease experts, scholars on pandemics, reporters who are well-versed in these issues, etc.",0.6597,0.231,0.769,0.0
+107,1233448434721411073,2020-02-28,https://twitter.com/KKMPutrajaya/status/1233448434721411073,279,1,264,237,7,en,False,False,False,False,,1,False,531041640,KKMalaysia🇲🇾😷,Official account of Malaysia’s Ministry of Health.,False,2012-03-20,2025476,128,Putrajaya,"Iran has the highest reported number of deaths from the #COVID-19 outside China.
+
+Iran's health ministry spokesman said on Friday that 34 Iranians have died out of a total of 388 positive cases. 
+
+Malaysian Imigration Depart. has set up special counters for travellers from Iran.",0.4588,0.21,0.691,0.099
+108,1233438860140564480,2020-02-28,https://twitter.com/SecPompeo/status/1233438860140564480,270,147,344,1544,29,en,False,True,False,False,,7,True,988573326376427520,Secretary Pompeo,"This account has been archived. You can follow former U.S. Secretary of State Mike Pompeo at @mikepompeo. For U.S. State Department updates, follow @StateDept.",False,2018-04-24,2800418,48,,"Congratulations to Ambassador Deborah Birx, MD, on her selection by @VP Pence to serve as the White House #Coronavirus Response Coordinator. Ambassador Birx brings decades of global health expertise to the fight to combat the spread of #COVID-19. https://t.co/WPgcKR4K4e",-0.0258,0.126,0.712,0.162
+109,1233438008860241920,2020-02-28,https://twitter.com/XHNews/status/1233438008860241920,133,5,19,76,1,en,True,True,False,False,,0,False,487118986,China Xinhua News,"Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias
+Our App: https://t.co/uYjoablw4w",False,2012-02-09,12040734,76,"Headquartered in Beijing, PRC","China, Japan agree to step up public health cooperation to contain #COVID-19 outbreak https://t.co/GKLcnh3dQ9 https://t.co/0o45gpdOpx",0.3612,0.217,0.783,0.0
+110,1233430261108334592,2020-02-28,https://twitter.com/NNUBonnie/status/1233430261108334592,288,3,102,179,4,en,False,False,False,False,,2,False,3506130508,Bonnie Castillo,"Updates from the front lines of the #Covid19 crisis. #Latina, Registered #Nurse, and ED of @NationalNurses and @Calnurses. Named #TIME100. ✊🏽✊🏾✊🏿",False,2015-08-31,14773,3963,"Oakland, CA","Disaster capitalism—we see it everyday—profiteering from disaster &amp; disease.
+
+Wall Street speculates on “pandemic bonds,” while frontline nurses fight to heal patients, w/o staffing, equipment &amp; resources they need, just so hospitals can hit their bottom line. #COVID @NaomiAKlein",-0.8957,0.0,0.707,0.293
+111,1233422762909294594,2020-02-28,https://twitter.com/SnowAndBeach/status/1233422762909294594,75,36,37,185,22,en,False,True,False,False,,2,True,733003963994415108,Grant Rivers,,False,2016-05-18,10939,6089,Essex,"Spotted on the Victoria line! 🚆
+#CoronaVirus #COVID https://t.co/cDChkEBj7P",0.0,0.0,1.0,0.0
+112,1233383970064207872,2020-02-28,https://twitter.com/cahamelmann/status/1233383970064207872,214,25,19,130,4,en,False,True,False,False,,0,False,262309515,Christoph Hamelmann,"Driving change for Health and Sustainable Human Development; Chef de Cabinet at WHO EMRO; views are my own, RT does not mean endorsement",False,2011-03-07,1907,723,Egypt,"On my way back from airport: I salute the EMS and all health workers for their dedication in our joint battle against #COVID-19 
+
+@DrTedros @saeednamaki @MohsenAsadilari @WHOEMRO @drjahanpur https://t.co/xUasAQwV4A",-0.3818,0.0,0.852,0.148
+113,1233375922952208384,2020-02-28,https://twitter.com/cahamelmann/status/1233375922952208384,244,32,85,247,15,en,False,True,False,False,,3,True,262309515,Christoph Hamelmann,"Driving change for Health and Sustainable Human Development; Chef de Cabinet at WHO EMRO; views are my own, RT does not mean endorsement",False,2011-03-07,1907,723,Egypt,"5th round of #COVID-19 test kits arrived in #Tehran - just in time. How much easier and faster it would be without travel restrictions.
+ 🙏 to all who helped 😷
+
+@DrTedros @saeednamaki @MohsenAsadilari @WHOEMRO @drjahanpur https://t.co/E3xX110Jlg",0.4215,0.123,0.877,0.0
+114,1233338295490314241,2020-02-28,https://twitter.com/Planetary_Sec/status/1233338295490314241,212,1,55,62,5,en,False,True,False,False,,4,True,3435192275,Planetary Security🌍,ClimateSecurity | SDGs | biodiversity | environment. Tweets by the Institute for Planetary Security,False,2015-08-22,150273,61860,"Burgh-Haamstede, Netherlands","🦠 
+
+How the spread of coronavirus has been much, much quicker than previous viruses like SARS and Ebola.
+
+😷 
+
+#Coronavirus #corona #Covid #covid19 #pandemic #health #flu #science Via @LBC 
+https://t.co/EEqdNxglrV",-0.0258,0.108,0.779,0.113
+115,1233328771463335938,2020-02-28,https://twitter.com/AzzamAmeen/status/1233328771463335938,175,4,26,121,2,en,True,False,False,False,,0,False,140784400,Azzam Ameen,"Journalist - Colombo, Sri Lanka.",False,2010-05-06,405953,880,Colombo,2 Sri Lankans arrived from Italy admitted to IDH with flu symptoms. Health authorities to monitor Sri Lankans arriving from Corona hit countries #COVID https://t.co/I3GuTXEg72,-0.296,0.07,0.8,0.13
+116,1233273268259434503,2020-02-28,https://twitter.com/bronzeagemantis/status/1233273268259434503,187,1,4,60,0,en,False,True,False,False,,1,True,844434316943904768,Bronze Age Pervert,Aspiring Nudist Bodybuilder. Free speech and anti-xenoestrogen activist. Get my book! https://t.co/h9dELQZ9tT,False,2017-03-22,106905,9972,,"Peoples of the world it is TIME but accept leadership of Nordic Aldebaran bodybuilders, it is ONLY way to survive #COVID it is time for #HandsomeThursday supremacy https://t.co/jIiBGa2EfO",0.4215,0.241,0.759,0.0
+117,1233195483704651776,2020-02-28,https://twitter.com/CGTNOfficial/status/1233195483704651776,110,42,164,604,9,en,True,False,False,False,,3,True,1115874631,CGTN,CGTN is an international media organization. It aims to provide global audiences with accurate and timely news coverage as well as rich audiovisual services.,False,2013-01-24,13051946,76,"Beijing, China",Live: Wuhan's Leishenshan Hospital sees more recovered patients #COVID-19 #coronavirus https://t.co/pIa9Rx9Bnd,0.0,0.0,1.0,0.0
+118,1233186164212789248,2020-02-28,https://twitter.com/thedarktangent/status/1233186164212789248,224,8,18,69,4,en,False,False,False,False,,1,False,14924745,Jeff Moss,"https://t.co/fgXNGNt7gm
+Founder Black Hat & DEF CON. CISA Cyber Security Advisory Council, UK Gov CA Board, AC Cyberstatecraft & CFR (He/Him)",False,2008-05-27,111401,807,Seattle,"Friends in China said that four things were essential during #covid lock down, and that if any single one failed disaster loomed:
+1-Internet
+2-Food delivery 
+3-Video streaming
+4-Electricity/Water
+
+It was 1/2 joke 1/2 reality",-0.6369,0.157,0.562,0.281
+119,1233891113628557313,2020-02-29,https://twitter.com/CDCgov/status/1233891113628557313,280,17,127,145,9,en,False,False,False,False,,3,False,146569971,CDC,CDC's official Twitter source for daily credible health & safety updates from Centers for Disease Control & Prevention. Privacy policy: https://t.co/9LbZmE3Wzg,False,2010-05-21,5537406,253,"Atlanta, GA","CDC, @WADeptHealth &amp; @KCPubHealth also reported 2 ppl have tested positive for #COVID-19 and are hospitalized. One is a resident of a long-term care facility in King County, WA; the other is a healthcare worker at the facility. Source of these infections is currently unknown.",0.7783,0.221,0.779,0.0
+120,1233891108654108672,2020-02-29,https://twitter.com/CDCgov/status/1233891108654108672,259,35,230,304,37,en,True,True,False,False,,8,True,146569971,CDC,CDC's official Twitter source for daily credible health & safety updates from Centers for Disease Control & Prevention. Privacy policy: https://t.co/9LbZmE3Wzg,False,2010-05-21,5537406,253,"Atlanta, GA","Today, @WADeptHealth and CDC reported the death of a person who had been hospitalized with #COVID-19. This is the first reported death within the US from COVID-19, the infection caused by the novel #coronavirus. https://t.co/KPoUeDAlsJ https://t.co/CgQjFOwMgz",-0.7579,0.092,0.598,0.311
+121,1233863288137682944,2020-02-29,https://twitter.com/DrDenaGrayson/status/1233863288137682944,252,233,808,1521,50,en,False,True,False,False,,32,True,1651522832,"Dena Grayson, MD, PhD","Ran for Congress. Lover of #science, truth and democracy.",False,2013-08-06,296873,495,Florida,"🎥Friends, I will do a LIVE video broadcast tonight around 7pm ET to discuss the #CoronavirusOutbreak.
+
+Spread the word, and leave your questions below.👇🏼
+
+#coronavirus #CoronaVirusUpdates #COVID #COVID19usa #COVID19 @thespybrief https://t.co/Cru7GsnQXN",0.4404,0.133,0.815,0.052
+122,1233859454443098114,2020-02-29,https://twitter.com/DrDenaGrayson/status/1233859454443098114,199,93,387,1110,15,en,False,False,False,True,,4,True,1651522832,"Dena Grayson, MD, PhD","Ran for Congress. Lover of #science, truth and democracy.",False,2013-08-06,296873,495,Florida,"Unfortunately, it’s going to get much worse, before it gets better.
+
+This is just the beginning of the #CoronavirusOutbreak here in the United States.
+
+#CoronaVirusUpdate #coronavirus #COVID #COVID19",0.0516,0.246,0.517,0.237
+123,1233858285788442625,2020-02-29,https://twitter.com/Alex_Verbeek/status/1233858285788442625,301,18,75,153,4,en,False,True,False,False,,5,True,326665662,Alexander Verbeek 🌍,Climate action | Nature | Water-Energy-Food | Sustainability | Wildlife | Innovation | Checkmark free since ‘23 | Subscribe to https://t.co/uVqqIT2GS8 🌱,False,2011-06-30,306751,104369,@alex_verbeek@mastodon.social,"👓 
+
+Walking the streets in a Swedish town, I share some thoughts on history, and leadership in times of crisis. 
+
+While writing, the first death in America of this ‘Democratic Hoax’ was reported. 🤔
+
+#alexnote #COVID #corona #virus #health #art #leadership #Coronavirus #covid19 https://t.co/npizvPop3A",-0.836,0.064,0.641,0.294
+124,1233841216288104450,2020-02-29,https://twitter.com/CGasparino/status/1233841216288104450,268,28,45,208,3,en,False,False,False,False,,2,False,68739089,Charles Gasparino,"Charles Gasparino joined FOX Business Network (FBN) in February 2010 as Senior Correspondent. NY Post columnist. God, Country, Pullups and Vodka in that order",False,2009-08-25,168764,4357,,"Credit where credit is due: @realDonaldTrump presser was a smart move. The more information we get, the less we will see panic and 1000 point dives in the stock market. Also @WhiteHouse should take credit for its early response; its problem was in communicating #COVID",0.5829,0.29,0.552,0.158
+125,1233838384520421376,2020-02-29,https://twitter.com/MollyRaePatric3/status/1233838384520421376,299,6,34,49,2,en,False,True,False,False,,0,True,855887892245135360,Molly Antifa #ONEV1#TEAM46,"A peace loving #HippieChic #antifa 
+free hugs &  loving gramma 🌿🌹🌿
+#Resistance 
+#GunReform
+#ONEV1 
+
+#mindfully 
+
+#BLM 
+#Oregon",False,2017-04-22,10190,11198,Western Oregon ,"As he stands before the cameras denying the seriousness of the 
+#COVID  , and speaks about his trade deal with China you have to ask yourself why is he down playing it ❓ 
+Its always about the  money and stock markets . He doesn't care if you catch it .  
+#OneVoice1 
+#wtpTEAM https://t.co/oWCmK2ypui",0.34,0.212,0.636,0.153
+126,1233830981624303616,2020-02-29,https://twitter.com/donnabrazile/status/1233830981624303616,251,64,53,250,7,en,False,False,False,False,,1,False,60919240,Donna Brazile,Political Strategist. Former Chairwoman Democratic National Committee (DNC) and Adjunct Lecturer since 2002 at Georgetown University. Geaux LSU Tigers!!,False,2009-07-28,629831,6526,USA,"Stop using this health emergency to “praise” the President. He gets praise hourly from staffers and Admin officials.
+
+Let’s focus on the plan to combat, restrict and stop the spread of  #COVID.
+
+Now, what’s level 4? Do not go to South Korea and Italy?",-0.4215,0.184,0.51,0.306
+127,1233829401462288385,2020-02-29,https://twitter.com/DomenicoNPR/status/1233829401462288385,200,39,35,97,11,en,False,False,False,False,,0,False,20474813,Domenico Montanaro,"NPR Sr Political Editor/Correspondent. NPR is a private, nonprofit w/ editorial independence and less than 1% funding from Corporation for Public Broadcasting",False,2009-02-09,113695,3468,"Washington, DC","Trump confirms one death overnight from #COVID 
+
+-22 patients 
+-15 in recovery
+-4 others “very ill”
+
+Says “healthy people, if you’re healthy, you’ll probably go through a process, and you’ll be fine.”",-0.0684,0.229,0.563,0.207
+128,1233827090333655041,2020-02-29,https://twitter.com/ProfessorAMuse/status/1233827090333655041,254,9,101,147,5,en,False,False,False,True,,1,True,1956573918,𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐨𝐫 𝐀 𝐌𝐮𝐬𝐞 💬,Designer | Art Historian | Museum Educator | Professor | @MUSEUMSwoWALLS | Advocate of #Education | #HumanRights | #Equality | #LGBTQIA | Living In #GoodTrouble,False,2013-10-12,17677,18658,"New York, New York ","Italy: Quarantined
+USA: Trump #COVID is #hoax
+
+Iran: Parliament closes 
+USA: Pence prays
+
+South Korea: tests 20,000 
+USA: 200 tested
+
+EU: nations close school, borders, 
+social distancing events &gt; 1000
+
+USA: Making America a Petrie dish
+First US death",-0.3612,0.103,0.759,0.138
+129,1233820240741466113,2020-02-29,https://twitter.com/adriandix/status/1233820240741466113,266,23,87,114,8,en,True,True,False,False,,2,False,22997830,Adrian Dix,Member of the Legislative Assembly for Vancouver-Kingsway. Collingwood resident. BC Minister of Health.,False,2009-03-05,61977,4496,Vancouver BC,"Pls see my joint statement with Dr. Bonnie Henry on a new case of #COVID-19 in BC. Now with 8 cases, the first 4 have fully recovered. The other 4 are in self-isolation at home &amp; under care by public-health teams:  https://t.co/16unZwpavi https://t.co/zZe5XF4CNh",0.5423,0.191,0.809,0.0
+130,1233816248670212098,2020-02-29,https://twitter.com/Microbedoc2/status/1233816248670212098,281,6,57,369,5,en,False,False,False,False,,0,False,3383381801,Jamie Murphy,"Infection registrar.
+London - Welsh diaspora.
+🏳️‍🌈🏴󠁧󠁢󠁷󠁬󠁳󠁿",False,2015-07-19,9209,1367,London,"Its easy to focus on the hard work of clinical teams involved with #COVID response.
+When I got in today, two ward clerks were in before us sorting patient lists &amp; forms for testing.
+As well as all the lab staff testing.
+So thanks to all the people that often don't recognition.",0.7579,0.23,0.729,0.041
+131,1233816034341158916,2020-02-29,https://twitter.com/aliostad/status/1233816034341158916,131,4,95,163,7,en,True,False,False,True,,3,True,47215171,Ali 🖤🕊,"finding patterns in news. distributed systems. machine learning. music. Bible. not in this order. English and فارسی
+
+background: Stalker - Andrei Tarkovsky",False,2009-06-15,16244,516,UK,"This is another case of suspected #COVID now in Shiraz collapsing in a mall
+
+#irancorona #irancoronavirus 
+
+https://t.co/YbvaxmxQXc",-0.4767,0.0,0.631,0.369
+132,1233788602045403137,2020-02-29,https://twitter.com/NBSaphierMD/status/1233788602045403137,263,55,225,877,10,en,False,True,False,False,,9,True,3065301110,"Nicole Saphier, MD","Physician • Opinions are mine only • Mom of 3 • Married to a 🧠 surgeon • Fox News Contributor • Bestselling author #MAHA, #PanicAttack, #ThatsWhatFamilysFor",False,2015-03-06,276957,119,NYC area,"Tips to avoid #COVID-19 and #flu:
+
+•Don’t touch your face
+•Wash your hands
+•Keep hair pulled back
+•Wash coats/gloves 
+•Avoid crowded areas
+•Limit unnecessary travel
+•Exercise/hydrate/eat healthily to boost immune system 
+•DONT PANIC! #MAHA https://t.co/L91wyLvlhy",0.3477,0.219,0.598,0.182
+133,1233774600195989506,2020-02-29,https://twitter.com/V2019N/status/1233774600195989506,167,17,87,321,6,en,False,False,False,False,,1,True,1218324988966531072,COVID19 😷 💉,"Tweeting about COVID-19 since January 2020
+#WearAMask indoors during surges 😷 #GetVaccinated 💉#GetBoosted 
+Stock up on masks & tests.",False,2020-01-18,135992,1305,,"Past time to remove paywalls on @washingtonpost @PostBaron @nytimes #CoronavirusOutbreak #COVID news. An informed public is a prepared public. 
+#pandemic #preparedness",0.2263,0.112,0.888,0.0
+134,1233769271538409472,2020-02-29,https://twitter.com/bmj_latest/status/1233769271538409472,197,2,76,94,11,en,True,False,False,False,,4,False,16949344,The BMJ,"The BMJ is patient centred, evidence based, and independent. Help us improve the health of our world with the best science, journalism, education, and comment",False,2008-10-24,505332,7077,London Beijing Delhi New York,Human behaviour is at the heart of how #covid-19 spreads @SusanMichie @DrRichardAmlot and James Rubin discuss why behavioural science is essential to containing the outbreak https://t.co/N5o1n2dgws,0.0,0.0,1.0,0.0
+135,1233765458140110848,2020-02-29,https://twitter.com/AynRandPaulRyan/status/1233765458140110848,293,11,99,150,15,en,False,True,False,False,,5,True,755835576,Holly Figueroa O'Reilly,Chocolatier. Owner @marcenetmerc. Sued Trump and won. Twice. Op-eds: @washingtonpost @guardian. I have 5 kids. You can't scare me.,False,2012-08-13,250828,7397,Seattle,Here are the recommendations from the @WHO on how to prevent the spread of #covid. (Hint: it's not a #hoax. Please RT or copy/paste into your own tweets. There is a lot of misinfo out there about the coronavirus. Protect yourself. #saturdaymorning #saturdaythoughts  1/ https://t.co/y3DJNjghwA,0.4404,0.271,0.633,0.095
+136,1233750663890448384,2020-02-29,https://twitter.com/thecableng/status/1233750663890448384,180,73,903,976,59,en,False,True,False,False,,18,True,1954402777,TheCable,Nigeria's independent online newspaper,False,2013-10-11,1168641,4537,Nigeria,"VIDEO: 'I've not been to #Lagos in 2 years' — man in viral post as Uber driver to #coronavirus patient debunks fake news
+#COVID-19 #COVID19Nigeria #FakeNews https://t.co/vGk6swGnX6",-0.4767,0.0,0.838,0.162
+137,1233747990038241281,2020-02-29,https://twitter.com/pesterplarson3/status/1233747990038241281,167,1,41,73,4,en,False,False,False,True,,0,False,807782838351237120,ResistingForAReturnToSanity 🆘,We must continue to #Resist against the traitorous trump Republicans hell bent on destroying our democracy.  Gains needed in House/Senate '22 & '24 and beyond.,False,2016-12-11,42608,42719,,"Thank you for your candor WHO Dr. Ezekiel Emanuel in describing $45$'s press conference re: #COVID-19 as....
+
+""I found most of what he said incoherent.""  Thanks again!",0.69,0.275,0.725,0.0
+138,1233692643093204992,2020-02-29,https://twitter.com/China_Amb_India/status/1233692643093204992,267,14,20,121,4,en,True,False,False,False,,1,True,938072041273430017,Embassy of The People's Republic of China in India,Embassy of The People's Republic of China in India,False,2017-12-05,96376,342,"50-D, Shantipath, Chanakyapuri",My sincere thanks to #Indian friends from business community for their support and solidarity to #Chinese people fighting against #Covid-19. Resuming normal personnel and trade exchanges at an early date serves the interests of our two peoples.https://t.co/hEQqOe6Inr,0.9022,0.457,0.469,0.073
+139,1233557800162217985,2020-02-29,https://twitter.com/CGTNOfficial/status/1233557800162217985,110,51,180,611,8,en,True,False,False,False,,2,True,1115874631,CGTN,CGTN is an international media organization. It aims to provide global audiences with accurate and timely news coverage as well as rich audiovisual services.,False,2013-01-24,13051946,76,"Beijing, China",Live: Wuhan's Leishenshan Hospital sees more recovered patients #COVID-19 #coronavirus https://t.co/eYU4NmQhOM,0.0,0.0,1.0,0.0
+140,1233545711339364352,2020-02-29,https://twitter.com/petrakle/status/1233545711339364352,187,4,49,70,6,en,True,False,False,False,,2,True,26576943,Petra Klepac,Infectious Disease Modeller.  Former @AXAResearchFund and @4womeninscience fellow.,False,2009-03-25,3512,714,,"First potentially locally acquired case of #COVID-19 in the UK is in .... Haslemere 🤔 
+
+This is where our virtual #BBC4 Pandemic started in 2018. 🤔🤔🤔
+
+https://t.co/xwJKpEDpel via @rozeggo",0.0,0.0,1.0,0.0

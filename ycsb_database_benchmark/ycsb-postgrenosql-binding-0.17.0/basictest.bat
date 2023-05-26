@@ -1,0 +1,12 @@
+CALL ./bin/ycsb.bat load basic -s -P workloads/workloada > outputLoadA.txt
+CALL ./bin/ycsb.bat run basic -s -P workloads/workloada > outputRunA.txt
+CALL ./bin/ycsb.bat load basic -s -P workloads/workloadb > outputLoadB.txt
+CALL ./bin/ycsb.bat run basic -s -P workloads/workloadb > outputRunB.txt
+CALL ./bin/ycsb.bat load basic -s -P workloads/workloadc > outputLoadC.txt
+CALL ./bin/ycsb.bat run basic -s -P workloads/workloadc > outputRunC.txt
+CALL ./bin/ycsb.bat load basic -s -P workloads/workloadd > outputLoadD.txt
+CALL ./bin/ycsb.bat run basic -s -P workloads/workloadd > outputRunD.txt
+CALL ./bin/ycsb.bat load basic -s -P workloads/workloade > outputLoadE.txt
+CALL ./bin/ycsb.bat run basic -s -P workloads/workloade > outputRunE.txt
+CALL ./bin/ycsb.bat load basic -s -P workloads/workloadf > outputLoadF.txt
+CALL ./bin/ycsb.bat run basic -s -P workloads/workloadf > outputRunF.txt
